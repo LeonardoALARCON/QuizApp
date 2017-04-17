@@ -249,7 +249,7 @@
             android:layout_height="wrap_content"
             android:text="@string/submite_button"
             android:layout_gravity="center_horizontal"
-            android:enabled="false"/>
+            android:onClick="submit"/>
 
     </LinearLayout>
 

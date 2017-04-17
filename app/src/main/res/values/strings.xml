@@ -4,7 +4,7 @@
 
     <string name="question_1_num">1</string>
     <string name="question_1">Select all the Object Oriented languages in the list</string>
-    <string name="question_1_answer_1">Scala</string>
+    <string name="question_1_answer_1">JavaScript</string>
     <string name="question_1_answer_2">C#</string>
     <string name="question_1_answer_3">C</string>
     <string name="question_1_answer_4">Java</string>
@@ -18,10 +18,6 @@
 
     <string name="question_3_num">3</string>
     <string name="question_3">Write one example of a sequential language</string>
-    <string name="question_3_answer_1">COBOl</string>
-    <string name="question_3_answer_2">Scala</string>
-    <string name="question_3_answer_3">Scala</string>
-    <string name="question_3_answer_4">Scala</string>
     <string name="question_3_placeholder">Sequential Language</string>
 
     <string name="question_4_num">4</string>
@@ -33,25 +29,17 @@
 
     <string name="question_5_num">5</string>
     <string name="question_5">Select all the programming languages who are derived from the language "C"</string>
-    <string name="question_5_answer_1">RUBY</string>
-    <string name="question_5_answer_2">Pyton</string>
+    <string name="question_5_answer_1">Swift</string>
+    <string name="question_5_answer_2">Python</string>
     <string name="question_5_answer_3">Java</string>
-    <string name="question_5_answer_4">Scala</string>
+    <string name="question_5_answer_4">Perl</string>
 
     <string name="question_6_num">6</string>
-    <string name="question_6">Write one example of a non compiled programming language</string>
-    <string name="question_6_answer_1">Scala</string>
-    <string name="question_6_answer_2">Scala</string>
-    <string name="question_6_answer_3">Scala</string>
-    <string name="question_6_answer_4">Scala</string>
-    <string name="question_6_placeholder">Non Compiled programming language</string>
+    <string name="question_6">Write one example of a markup language</string>
+    <string name="question_6_placeholder">Markup language</string>
 
     <string name="question_7_num">7</string>
     <string name="question_7">Write one characteristic of object oriented programming</string>
-    <string name="question_7_answer_1">Scala</string>
-    <string name="question_7_answer_2">Scala</string>
-    <string name="question_7_answer_3">Scala</string>
-    <string name="question_7_answer_4">Scala</string>
     <string name="question_7_placeholder">Characteristic of OOP</string>
 
 </resources>
